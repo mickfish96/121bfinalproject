@@ -3,5 +3,10 @@
 		"restrauntName": "Big Juds",
 		"location": "411 W 7800 S, Rexburg, ID 83440",
 		"imgUrl": "https://www.rexburgonline.com/wp-content/uploads/2017/05/IMG_20170704_154118-1-e1501023161861.jpg"
+	},
+	{
+		"restrauntName": "Red Rabbit",
+		"location": "155 W Main St #8, Rexburg, ID 83440",
+		"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1b/e5/16/2d/cool-sign-and-decor.jpg"
 	}
 ]
