@@ -1,0 +1,7 @@
+[
+	{
+		"restrauntName": "Big Juds",
+		"location": "411 W 7800 S, Rexburg, ID 83440",
+		"imgUrl": "https://www.rexburgonline.com/wp-content/uploads/2017/05/IMG_20170704_154118-1-e1501023161861.jpg"
+	}
+]
